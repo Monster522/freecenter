@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<assembly xmlns="http://maven.apache.org/ASSEMBLY/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+          <!--xsi:schemaLocation="http://maven.apache.org/ASSEMBLY/2.0.0 http://maven.apache.org/xsd/assembly-2.0.0.xsd">-->
+<assembly>
+    <id>package</id>
+    <formats>
+        <format>tar.gz</format>
+    </formats>
+
+    <!--是否包含打包层目录，比如包名为output，打包的时候是否要新建一个output文件夹作为总文件夹-->
+    <includeBaseDirectory>true</includeBaseDirectory>
+
+    <!--项目中配置文件（包括日志之类的）的打包方式-->
+    <!--include表示要包含的文件，如无则为全部-->
+    <!--exinclude表示要排除的文件，如无则不排除-->
+    <fileSets>
+        <!--directory是需要打包的路径-->
+        <!--outputDirectory是打包后的输出路径-->
+        <fileSet>
+            <directory>src/main/resources/shell</directory>
+            <outputDirectory>/bin</outputDirectory>
+            <fileMode>0755</fileMode>
+        </fileSet>
+        <fileSet>
+            <directory>src/main/resources</directory>
+            <outputDirectory>/conf</outputDirectory>
+            <excludes>
+                <exclude>/shell/**.*</exclude>
+                <exclude>/shell</exclude>
+            </excludes>
+        </fileSet>
+    </fileSets>
+
+
+    <!--项目中依赖包的打包方式-->
+    <!--outputDirectory是打包后的输出路径-->
+    <!--scope是指将runtime周期的包都打包进去-->
+    <!--include表示要包含的文件，如无则为全部-->
+    <!--exinclude表示要排除的文件，如无则不排除-->
+    <dependencySets>
+        <dependencySet>
+            <outputDirectory>/lib</outputDirectory>
+            <scope>runtime</scope>
+        </dependencySet>
+    </dependencySets>
+</assembly>
