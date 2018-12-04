@@ -10,7 +10,6 @@
 
     <modules>
         <module>freetest</module>
-        <module>shiro</module>
     </modules>
 
     <repositories>

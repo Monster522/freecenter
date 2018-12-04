@@ -2,43 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6b66ff5-61ec-4b57-b4e2-b3cae4a73877" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../db.pdman.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/controller/ExcelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/controller/FileUpController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/mainFile/FileUsing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/mainFile/SrcUsing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/mainFile/StreamUsing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/service/FileUpServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/utils/ExportExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/utils/ImportExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/shiro/config/MyShiroRealm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/shiro/config/SpeShiroConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/shiro/controller/ShiroController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/shiro/mybatisplus/MybatisGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/target/classes/com/lin/shiro/mybatisplus/MybatisGenerator$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/target/classes/com/lin/shiro/mybatisplus/MybatisGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shiro/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/FreeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/FreeApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/active/conf/ShiroConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/active/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/active/controller/EmployeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/test/AsciiPic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/target/classes/com/lin/FreeApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/target/classes/com/lin/FreeApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/target/classes/com/lin/active/conf/ShiroConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/target/classes/com/lin/active/controller/EmployeeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/target/classes/com/lin/test/AsciiPic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/target/freetest-1.0.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/target/generated-sources/annotations/com/lin/active/mapper/CarMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/target/generated-sources/annotations/com/lin/active/mapper/CarMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../freetest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/target/classes/com/lin/fileupload/controller/ExcelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/target/classes/com/lin/fileupload/controller/ExcelController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/target/classes/com/lin/fileupload/utils/ExcelUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/target/classes/com/lin/fileupload/utils/ExcelUtils.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../freetest/target/" />
     <ignored path="$PROJECT_DIR$/../target/" />
@@ -109,17 +75,7 @@
     <favorites_list name="freecenter" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/FreeApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -259,26 +215,6 @@
               <item name="freetest" type="616d4139:PackageViewModuleNode" />
               <item name="com.lin" type="1f31426a:PackageElementNode" />
             </path>
-            <path>
-              <item name="freecenter" type="58d84e3e:PackageViewProjectNode" />
-              <item name="freetest" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lin" type="1f31426a:PackageElementNode" />
-              <item name="fileupload" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="58d84e3e:PackageViewProjectNode" />
-              <item name="freetest" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lin" type="1f31426a:PackageElementNode" />
-              <item name="fileupload" type="1f31426a:PackageElementNode" />
-              <item name="controller" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="58d84e3e:PackageViewProjectNode" />
-              <item name="freetest" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lin" type="1f31426a:PackageElementNode" />
-              <item name="fileupload" type="1f31426a:PackageElementNode" />
-              <item name="utils" type="1f31426a:PackageElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -295,92 +231,6 @@
               <item name="freecenter" type="462c0819:PsiDirectoryNode" />
               <item name=".project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lin" type="462c0819:PsiDirectoryNode" />
-              <item name="fileupload" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lin" type="462c0819:PsiDirectoryNode" />
-              <item name="fileupload" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lin" type="462c0819:PsiDirectoryNode" />
-              <item name="fileupload" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lin" type="462c0819:PsiDirectoryNode" />
-              <item name="fileupload" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -395,7 +245,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543914506141" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543915037557" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/../freetest/src/main/java/com/lin" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../respository/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -543,12 +393,12 @@
       <workItem from="1543371981497" duration="1474000" />
       <workItem from="1543373462906" duration="5498000" />
       <workItem from="1543391267562" duration="40301000" />
-      <workItem from="1543891100557" duration="16233000" />
+      <workItem from="1543891100557" duration="16763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75162000" />
+    <option name="totallyTimeSpent" value="75692000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -561,7 +411,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987013" visible="true" weight="0.18230277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1067,8 +916,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/FreeApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="247">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
