@@ -66,7 +66,7 @@ public class Student extends Model<Student> {
 
     @Override
     public String toString() {
-        return "Student{" +
+        return "Student1{" +
         "id=" + id +
         ", name=" + name +
         ", age=" + age +
