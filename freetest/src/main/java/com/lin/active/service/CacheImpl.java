@@ -20,8 +20,8 @@ import org.springframework.stereotype.Service;
 @CacheConfig(cacheNames = "tea")
 @Service
 public class CacheImpl {
-    @Autowired
-    private TeacherDao teacherDao;
+//    @Autowired
+//    private TeacherDao teacherDao;
 
 
     @CachePut(value = "cache1" , key = "#result.id")
@@ -29,7 +29,8 @@ public class CacheImpl {
         System.out.println("-----------查询开始！--------------");
         QueryWrapper queryWrapper = new QueryWrapper();
         queryWrapper.apply(" id = 1 ");
-        Teacher teacher = teacherDao.selectOne(queryWrapper);
+//        Teacher teacher = teacherDao.selectOne(queryWrapper);
+        Teacher teacher = null;
         return teacher;
     }
 
@@ -38,7 +39,9 @@ public class CacheImpl {
         System.out.println("-----------查询开始！--------------");
         QueryWrapper queryWrapper = new QueryWrapper();
         queryWrapper.apply(" id = 1");
-        Teacher teacher = teacherDao.selectOne(queryWrapper);
+//        Teacher teacher = teacherDao.selectOne(queryWrapper);
+        Teacher teacher = null;
+        Condition condition = new Condition();
         return teacher;
     }
 

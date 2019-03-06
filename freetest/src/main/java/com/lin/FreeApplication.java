@@ -8,6 +8,8 @@ import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
+import javax.servlet.http.HttpServlet;
+
 /**
  * Created by Enzo Cotter on 2018/10/31.
  */

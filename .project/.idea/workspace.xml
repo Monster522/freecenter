@@ -2,9 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6b66ff5-61ec-4b57-b4e2-b3cae4a73877" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/reflect/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../freetest/src/main/resources/reflect.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/Arrs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/ShellIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/SimpleSelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/SortCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/StraightIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/tranform/Binary2Decimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/tranform/Binary2HexOct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/tranform/Decimal2Hex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/tranform/Octal2Decimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db.pdman.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/FreeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/FreeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/active/service/CacheImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/active/service/CacheImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/test/service/FreeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/src/main/java/com/lin/test/service/FreeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/target/classes/com/lin/active/service/CacheImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/target/classes/com/lin/active/service/CacheImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/target/classes/com/lin/test/service/FreeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/target/classes/com/lin/test/service/FreeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/target/generated-sources/annotations/com/lin/active/mapper/CarMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/target/generated-sources/annotations/com/lin/active/mapper/CarMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freetest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../freetest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../freetest/target/" />
     <ignored path="$PROJECT_DIR$/../target/" />
@@ -22,50 +48,56 @@
     <session id="-2036667011">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="10" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="DefaultWebSecurityManager" value="1" />
           <entry key="Workbook" value="1" />
+          <entry key="bat" value="1" />
           <entry key="class" value="3" />
           <entry key="html" value="1" />
-          <entry key="java" value="137" />
-          <entry key="properties" value="4" />
+          <entry key="java" value="180" />
+          <entry key="properties" value="10" />
+          <entry key="sh" value="3" />
           <entry key="txt" value="3" />
-          <entry key="xml" value="17" />
+          <entry key="xml" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Bash" value="3" />
           <entry key="CLASS" value="3" />
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="137" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Properties" value="4" />
+          <entry key="JAVA" value="180" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="10" />
           <entry key="UML" value="2" />
-          <entry key="XML" value="17" />
+          <entry key="XML" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="23" />
-          <entry key="java" value="8892" />
-          <entry key="properties" value="319" />
+          <entry key="dummy" value="24" />
+          <entry key="java" value="21397" />
+          <entry key="properties" value="342" />
           <entry key="txt" value="81" />
           <entry key="xml" value="192" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8892" />
-          <entry key="PLAIN_TEXT" value="104" />
-          <entry key="Properties" value="319" />
+          <entry key="JAVA" value="21397" />
+          <entry key="PLAIN_TEXT" value="105" />
+          <entry key="Properties" value="342" />
           <entry key="XML" value="192" />
         </counts>
       </usages-collector>
@@ -76,23 +108,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/reflect/ThreeReflect.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/test/controller/FreeInfoController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="437">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/reflect/Mobile.java">
+        <entry file="file://$PROJECT_DIR$/../freetest/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
-              <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+            <state relative-caret-position="4826">
+              <caret line="254" column="33" selection-start-line="254" selection-start-column="33" selection-end-line="254" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/FreeApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+              <folding>
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.31/tomcat-embed-core-8.5.31-sources.jar!/javax/servlet/http/HttpServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../freetest/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3420">
+              <caret line="180" column="22" selection-start-line="180" selection-start-column="22" selection-end-line="180" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -127,8 +187,6 @@
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/active/conf/ShiroConfig.java" />
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/shiro/mybatisplus/MybatisGenerator.java" />
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/shiro/config/ShiroConfig.java" />
-        <option value="$PROJECT_DIR$/../freetest/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/FreeApplication.java" />
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/shiro/config/SpeShiroConfig.java" />
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/shiro/config/MyShiroRealm.java" />
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/shiro/controller/ShiroController.java" />
@@ -141,7 +199,6 @@
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/mainFile/FileUsing.java" />
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/controller/FileUpController.java" />
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/utils/ExcelUtils.java" />
-        <option value="$PROJECT_DIR$/../freetest/pom.xml" />
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/entity/Student.java" />
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/utils/ExportExcelUtils.java" />
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/utils/ImportExcelUtils.java" />
@@ -152,6 +209,26 @@
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/reflect/Mobile.java" />
         <option value="$PROJECT_DIR$/../freetest/src/main/resources/reflect.txt" />
         <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/reflect/ThreeReflect.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/Arrs.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/SimpleSelectionSort.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/MergeSort.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/QuickSort.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/SortCenter.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/search/binarySearch.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/StraightIS.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/ShellIS.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/HeapSort.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/tranform/Binary2Decimal.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/tranform/Decimal2Hex.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/tranform/Octal2Decimal.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/tranform/Binary2HexOct.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/test/service/FreeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/active/service/CacheImpl.java" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../freetest/pom.xml" />
+        <option value="$PROJECT_DIR$/../freetest/src/main/java/com/lin/FreeApplication.java" />
       </list>
     </option>
   </component>
@@ -183,11 +260,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="freecenter" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="freetest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="freecenter" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="freetest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -196,8 +273,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
-    <option name="width" value="694" />
-    <option name="height" value="745" />
+    <option name="y" value="4" />
+    <option name="width" value="1372" />
+    <option name="height" value="725" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -246,14 +324,19 @@
               <item name="freecenter" type="58d84e3e:PackageViewProjectNode" />
               <item name="freetest" type="616d4139:PackageViewModuleNode" />
               <item name="com.lin" type="1f31426a:PackageElementNode" />
-              <item name="algorithm" type="1f31426a:PackageElementNode" />
+              <item name="test" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="freecenter" type="58d84e3e:PackageViewProjectNode" />
               <item name="freetest" type="616d4139:PackageViewModuleNode" />
               <item name="com.lin" type="1f31426a:PackageElementNode" />
-              <item name="algorithm" type="1f31426a:PackageElementNode" />
-              <item name="reflect" type="1f31426a:PackageElementNode" />
+              <item name="test" type="1f31426a:PackageElementNode" />
+              <item name="controller" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="freecenter" type="58d84e3e:PackageViewProjectNode" />
+              <item name="freetest" type="616d4139:PackageViewModuleNode" />
+              <item name="shell" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -269,11 +352,6 @@
             <path>
               <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
               <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name=".project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
               <item name="freetest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -288,52 +366,6 @@
               <item name="freetest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lin" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lin" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="freecenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="freecenter" type="462c0819:PsiDirectoryNode" />
-              <item name="freetest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -349,7 +381,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543980545197" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548208585558" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/../freetest/src/main/java/com/lin" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../respository/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -381,20 +413,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreeReflect">
+  <component name="RunManager" selected="Spring Boot.FreeApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileUsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.fileupload.mainFile.FileUsing" />
+    <configuration name="Binary2HexOct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.algorithm.tranform.Binary2HexOct" />
       <module name="freetest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lin.fileupload.mainFile.*" />
+          <option name="PATTERN" value="com.lin.algorithm.tranform.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -402,13 +434,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MybatisGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.shiro.mybatisplus.MybatisGenerator" />
+    <configuration name="Decimal2Hex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.algorithm.tranform.Decimal2Hex" />
       <module name="freetest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lin.shiro.mybatisplus.*" />
+          <option name="PATTERN" value="com.lin.algorithm.tranform.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -416,13 +448,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamUsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.fileupload.mainFile.StreamUsing" />
+    <configuration name="FreeServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.test.service.FreeServiceImpl" />
       <module name="freetest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lin.fileupload.mainFile.*" />
+          <option name="PATTERN" value="com.lin.test.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,13 +462,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeReflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.algorithm.reflect.ThreeReflect" />
+    <configuration name="Octal2Decimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.algorithm.tranform.Octal2Decimal" />
       <module name="freetest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lin.algorithm.reflect.*" />
+          <option name="PATTERN" value="com.lin.algorithm.tranform.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -487,19 +519,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MybatisGenerator" />
+      <item itemvalue="Application.Decimal2Hex" />
+      <item itemvalue="Application.Octal2Decimal" />
+      <item itemvalue="Application.Binary2HexOct" />
+      <item itemvalue="Application.FreeServiceImpl" />
       <item itemvalue="Spring Boot.FreeApplication" />
-      <item itemvalue="Application.FileUsing" />
-      <item itemvalue="Application.StreamUsing" />
-      <item itemvalue="Application.ThreeReflect" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreeReflect" />
         <item itemvalue="Spring Boot.FreeApplication" />
-        <item itemvalue="Application.FileUsing" />
-        <item itemvalue="Application.StreamUsing" />
-        <item itemvalue="Application.MybatisGenerator" />
+        <item itemvalue="Application.FreeServiceImpl" />
+        <item itemvalue="Application.Binary2HexOct" />
+        <item itemvalue="Application.Octal2Decimal" />
+        <item itemvalue="Application.Decimal2Hex" />
       </list>
     </recent_temporary>
   </component>
@@ -517,12 +549,24 @@
       <workItem from="1543371981497" duration="1474000" />
       <workItem from="1543373462906" duration="5498000" />
       <workItem from="1543391267562" duration="40301000" />
-      <workItem from="1543891100557" duration="26352000" />
+      <workItem from="1543891100557" duration="51238000" />
+      <workItem from="1544410717515" duration="29993000" />
+      <workItem from="1544859150988" duration="11000" />
+      <workItem from="1545363387198" duration="1913000" />
+      <workItem from="1545811795259" duration="131000" />
+      <workItem from="1545876265583" duration="736000" />
+      <workItem from="1545980694134" duration="1546000" />
+      <workItem from="1546054553722" duration="74000" />
+      <workItem from="1546519654066" duration="1051000" />
+      <workItem from="1547170671857" duration="3521000" />
+      <workItem from="1547796544818" duration="1634000" />
+      <workItem from="1548208330656" duration="289000" />
+      <workItem from="1550740418990" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85281000" />
+    <option name="totallyTimeSpent" value="151100000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -535,9 +579,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987013" visible="true" weight="0.18230277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987013" visible="true" weight="0.16791044" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -547,16 +590,16 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32975295" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25134265" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2803437" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3555317" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42105263" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32975295" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32975295" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32975295" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32116005" />
       <window_info anchor="bottom" id="Problems" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
@@ -566,7 +609,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.1652452" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.19029851" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -615,6 +658,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../freetest" />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="SpringBootApplicationConfigurationType">
@@ -639,265 +687,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE-sources.jar!/org/springframework/web/multipart/MultipartFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="93" column="16" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/commons-io/commons-io/2.6/commons-io-2.6-sources.jar!/org/apache/commons/io/IOUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="2247" column="22" lean-forward="true" selection-start-line="2247" selection-start-column="22" selection-end-line="2247" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/commons-io/commons-io/2.6/commons-io-2.6-sources.jar!/org/apache/commons/io/FileUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="1529" column="20" selection-start-line="1529" selection-start-column="20" selection-end-line="1529" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/controller/FileUpController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/CellType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/Cell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="406" column="106" lean-forward="true" selection-start-line="406" selection-start-column="15" selection-end-line="406" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/CellStyle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/mainFile/SrcUsing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/mainFile/StreamUsing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="103" column="13" lean-forward="true" selection-start-line="103" selection-start-column="13" selection-end-line="103" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/mainFile/FileUsing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/Row.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/Sheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFWorkbook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="1128" selection-start-line="1128" selection-end-line="1128" />
-          <folding>
-            <element signature="e#40616#40617#0" expanded="true" />
-            <element signature="e#40652#40653#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/Jdk8/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="214" selection-start-line="214" selection-end-line="214" />
-          <folding>
-            <element signature="e#8445#8446#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFRow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="319" selection-start-line="319" selection-end-line="319" />
-          <folding>
-            <element signature="e#9447#9448#0" expanded="true" />
-            <element signature="e#9528#9529#0" expanded="true" />
-            <element signature="e#11018#11019#0" expanded="true" />
-            <element signature="e#11090#11091#0" expanded="true" />
-            <element signature="e#11957#11958#0" expanded="true" />
-            <element signature="e#19620#19621#0" expanded="true" />
-            <element signature="e#19658#19659#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFSheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="1201" selection-start-line="1201" selection-end-line="1201" />
-          <folding>
-            <element signature="e#43654#43655#0" expanded="true" />
-            <element signature="e#43715#43716#0" expanded="true" />
-            <element signature="e#47138#47139#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/FillPatternType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/BorderStyle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/HorizontalAlignment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/hssf/usermodel/HSSFCellStyle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="767" column="16" selection-start-line="767" selection-start-column="16" selection-end-line="767" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/hssf/usermodel/HSSFFont.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="214" column="16" selection-start-line="214" selection-start-column="16" selection-end-line="214" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/hssf/usermodel/HSSFClientAnchor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="266" column="38" lean-forward="true" selection-start-line="266" selection-start-column="38" selection-end-line="266" selection-end-column="38" />
-          <folding>
-            <element signature="e#8733#8734#0" expanded="true" />
-            <element signature="e#8794#8795#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/hssf/util/HSSFColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/IndexedColors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/3.17/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/ClientAnchor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="72" column="24" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/4.0.0/poi-4.0.0-sources.jar!/org/apache/poi/hssf/usermodel/HSSFFont.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="40" column="46" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/4.0.0/poi-4.0.0-sources.jar!/org/apache/poi/ss/usermodel/Font.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
-          <caret line="285" column="21" selection-start-line="285" selection-start-column="21" selection-end-line="285" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/4.0.0/poi-4.0.0-sources.jar!/org/apache/poi/hssf/usermodel/HSSFRichTextString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-380">
-          <caret line="29" column="32" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="29" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/entity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/fileupload/entity/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/Jdk8/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/poi/poi/4.0.0/poi-4.0.0-sources.jar!/org/apache/poi/ss/formula/functions/T.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../freetest/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="166" column="36" selection-start-line="166" selection-start-column="36" selection-end-line="166" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../Java/Jdk8/src.zip!/java/lang/AutoCloseable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -930,9 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -940,23 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1679">
           <caret line="95" selection-start-line="95" selection-end-line="95" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/FreeApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -964,10 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-          <folding>
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1693#1694#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -975,9 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -995,13 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/reflect/Mobile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../freetest/src/main/resources/reflect.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1009,16 +764,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../freetest/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="78" column="46" lean-forward="true" selection-start-line="78" selection-start-column="46" selection-end-line="78" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/reflect/reflect.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/reflect/reflect.txt" />
     <entry file="jar://$PROJECT_DIR$/../../../Java/Jdk8/src.zip!/java/io/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -1026,13 +772,257 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/resources/shell/start.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/reflect/ThreeReflect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+        <state relative-caret-position="305">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/Arrs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/search.java" />
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/SortCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/StraightIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/ShellIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/SimpleSelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="24" lean-forward="true" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/sortEight/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="44" lean-forward="true" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/tranform/Decimal2Hex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/tranform/Octal2Decimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/tranform/Binary2Decimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Java/Jdk8/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="301" column="25" selection-start-line="301" selection-start-column="25" selection-end-line="301" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Java/Jdk8/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="77" column="15" selection-start-line="77" selection-start-column="15" selection-end-line="77" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/reflect/Mobile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/algorithm/tranform/Binary2HexOct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/test/conf/DruidDatasourceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/test/service/FreeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/active/conf/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../respository/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5-sources.jar!/com/baomidou/mybatisplus/core/conditions/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../respository/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5-sources.jar!/com/baomidou/mybatisplus/core/conditions/query/LambdaQueryWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../respository/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5-sources.jar!/com/baomidou/mybatisplus/core/conditions/query/QueryWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/test/dao/TeacherDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/active/service/CacheImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/active/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/assembly/assembly.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/resources/shell/dump.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/resources/shell/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/test/controller/FreeInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4826">
+          <caret line="254" column="33" selection-start-line="254" selection-start-column="33" selection-end-line="254" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/java/com/lin/FreeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../freetest/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3420">
+          <caret line="180" column="22" selection-start-line="180" selection-start-column="22" selection-end-line="180" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.31/tomcat-embed-core-8.5.31-sources.jar!/javax/servlet/http/HttpServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
         </state>
       </provider>
     </entry>

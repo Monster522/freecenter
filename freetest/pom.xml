@@ -276,46 +276,46 @@
 
         <plugins>
             <!--Assembly打包插件-->
-            <!--<plugin>-->
-                <!--<artifactId>maven-assembly-plugin</artifactId>-->
-                <!--<configuration>-->
-                    <!--&lt;!&ndash;描述文件路径&ndash;&gt;-->
-                    <!--<descriptors>-->
-                        <!--<descriptor>src/main/assembly/assembly.xml</descriptor>-->
-                    <!--</descriptors>-->
-                <!--</configuration>-->
-                <!--<executions>-->
-                    <!--<execution>-->
-                        <!--&lt;!&ndash;名称任意&ndash;&gt;-->
-                        <!--<id>make-assembly</id>-->
-                        <!--&lt;!&ndash;绑定到package声明周期上&ndash;&gt;-->
-                        <!--<phase>package</phase>-->
-                        <!--<goals>-->
-                            <!--&lt;!&ndash;只运行一次&ndash;&gt;-->
-                            <!--<goal>single</goal>-->
-                        <!--</goals>-->
-                    <!--</execution>-->
-                <!--</executions>-->
-            <!--</plugin>-->
-
-            <!--springBoot默认maven打包插件-->
             <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-                <version>2.0.0.RELEASE</version>
+                <artifactId>maven-assembly-plugin</artifactId>
                 <configuration>
-                    <fork>true</fork>
-                    <skip>true</skip>
-                    <mainClass>com.lin.FreeApplication</mainClass>
+                    <!--描述文件路径-->
+                    <descriptors>
+                        <descriptor>src/main/assembly/assembly.xml</descriptor>
+                    </descriptors>
                 </configuration>
                 <executions>
                     <execution>
+                        <!--名称任意-->
+                        <id>make-assembly</id>
+                        <!--绑定到package声明周期上-->
+                        <phase>package</phase>
                         <goals>
-                            <goal>repackage</goal>
+                            <!--只运行一次-->
+                            <goal>single</goal>
                         </goals>
                     </execution>
                 </executions>
             </plugin>
+
+            <!--&lt;!&ndash;springBoot默认maven打包插件&ndash;&gt;-->
+            <!--<plugin>-->
+                <!--<groupId>org.springframework.boot</groupId>-->
+                <!--<artifactId>spring-boot-maven-plugin</artifactId>-->
+                <!--<version>2.0.0.RELEASE</version>-->
+                <!--<configuration>-->
+                    <!--<fork>true</fork>-->
+                    <!--<skip>true</skip>-->
+                    <!--<mainClass>com.lin.FreeApplication</mainClass>-->
+                <!--</configuration>-->
+                <!--<executions>-->
+                    <!--<execution>-->
+                        <!--<goals>-->
+                            <!--<goal>repackage</goal>-->
+                        <!--</goals>-->
+                    <!--</execution>-->
+                <!--</executions>-->
+            <!--</plugin>-->
 
 
             <!--Mapstruct编译插件-->

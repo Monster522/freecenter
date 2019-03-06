@@ -7,6 +7,7 @@ import com.lin.test.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -44,6 +45,8 @@ public class FreeServiceImpl {
         List<Map<String,Object>> list = freeMysqlDao.queryAll();
         System.out.println(list.toString());
     }
+
+
 
 
 }
